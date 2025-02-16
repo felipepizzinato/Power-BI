@@ -13,7 +13,7 @@ Este projeto é um **dashboard interativo no Power BI** desenvolvido com base em
 ✅ Distribuição de clientes por gênero 💰  
 
 ## 📷 Dashboard
-<img src="caminho-para-imagem-do-dashboard" alt="Dashboard Power BI" width="800px">
+<img src="imagens/image.png" alt="Dashboard Power BI" width="800px">
 
 ## 🛠️ Tecnologias Utilizadas
 - **Power BI** para criação do relatório
