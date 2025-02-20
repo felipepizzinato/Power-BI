@@ -13,7 +13,7 @@ Este projeto é um **dashboard interativo no Power BI** desenvolvido com base em
 ✅ Distribuição de clientes por gênero 💰  
 
 ## 📷 Dashboard
-<img src="imagens/image_pet_shop.png" alt="Dashboard Power BI" width="800px">
+(https://app.powerbi.com/view?r=eyJrIjoiZWU3OTc1NGQtMzE5Ny00OGQ3LTkxZDktNmEzMmFlZmVjMDg4IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 ## 🛠️ Tecnologias Utilizadas
 - **Power BI** para criação do relatório
