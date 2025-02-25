@@ -21,6 +21,11 @@ https://app.powerbi.com/view?r=eyJrIjoiZWU3OTc1NGQtMzE5Ny00OGQ3LTkxZDktNmEzMmFlZ
 - **Power Query** para transformação de dados
 - **Excel/CSV e .TXT** como fonte de dados
 
+
+
+
+
+
 # 📊 Relatório Power BI - Empresa Opuline
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-FAE61E?style=for-the-badge&logo=power-bi&logoColor=black) 
@@ -39,10 +44,4 @@ Este projeto é um **dashboard interativo no Power BI** desenvolvido com base em
 ## 📷 Dashboard  
 https://app.powerbi.com/view?r=eyJrIjoiNjBiZGJiOTctYTMxNi00Nzk2LTk0YzktNmIxZjcyMDI2MzdkIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) 
 
-## 🛠️ Tecnologias Utilizadas  
-![Power BI](https://img.shields.io/badge/Power%20BI-FFC000?style=for-the-badge&logo=Power%20BI&logoColor=white)  
-![DAX](https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logo=Microsoft&logoColor=white)  
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=Microsoft&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)  
-![CSV](https://img.shields.io/badge/CSV-000000?style=for-the-badge&logo=CSV&logoColor=white)  
-![TXT](https://img.shields.io/badge/TXT-808080?style=for-the-badge&logo=Text&logoColor=white)  
+
