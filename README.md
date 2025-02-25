@@ -19,7 +19,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZWU3OTc1NGQtMzE5Ny00OGQ3LTkxZDktNmEzMmFlZ
 - **Power BI** para criação do relatório
 - **DAX** para cálculos e medidas
 - **Power Query** para transformação de dados
-- **Excel/CSV e .TXT** como fonte de dados
+- **Excel/CSV e .TXT** como fonte de dados.
 
 
 
